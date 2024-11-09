@@ -2,9 +2,9 @@
 
 **Profissão / Área de Interesse**
 
-Olá! 
-Sou um desenvolvedor focado em análise e engenharia de dados, com experiência em Databricks, Python, SQL e Power BI. 
-Estou sempre em busca de novos desafios para aprimorar minhas habilidades.
+Olá! <br>
+Sou um entusiasta e profissional em transição para a área de dados, com uma forte motivação para expandir meus conhecimentos e habilidades em tecnologias como Databricks, Python, SQL, e Power BI.<br>
+Aos 35 anos e com um background diversificado, estou focado em me tornar um especialista em engenharia de dados, análise de dados e desenvolvimento de soluções para ajudar empresas a tomarem decisões baseadas em dados.
 
 ### Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/renan-marques-rodrigues/)
