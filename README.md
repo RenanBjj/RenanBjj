@@ -7,16 +7,16 @@ Sou um entusiasta e profissional em transição para a área de dados, com uma f
 Aos 35 anos e com um background diversificado, estou focado em me tornar um especialista em engenharia de dados, análise de dados e desenvolvimento de soluções para ajudar empresas a tomarem decisões baseadas em dados.
 
 ### Tecnologias utilizadas
-#### *Databricks*:
+**Databricks**:
 Atualmente focado em dominar o Databricks com Python e SQL, onde desenvolvo pipelines de dados e aplico transformações em camadas (Bronze, Silver e Gold).
 
-#### *Python*:
+**Python**:
 Utilizo PySpark para processamento e tratamento de dados em larga escala, criando fluxos de trabalho para análise de dados.
 
-#### *SQL*:
+**SQL**:
 Experiência em manipulação e transformação de dados.
 
-#### *Power BI*:
+**Power BI**:
 Construo dashboards e relatórios para visualização de insights, com foco em vendas e comportamento do cliente.
 
 
