@@ -14,7 +14,7 @@ Atualmente focado em dominar o Databricks com Python e SQL, onde desenvolvo pipe
 Utilizo PySpark para processamento e tratamento de dados em larga escala, criando fluxos de trabalho para análise de dados.
 
 **SQL**:
-Experiência em manipulação e transformação de dados.
+Manipulação e transformação de dados.
 
 **Power BI**:
 Construo dashboards e relatórios para visualização de insights, com foco em vendas e comportamento do cliente.
