@@ -1,32 +1,43 @@
-# Renan Marques Rodrigues
-
-**Profissão / Área de Interesse**
-
-Olá! <br>
-Sou um entusiasta e profissional em transição para a área de dados, com uma forte motivação para expandir meus conhecimentos e habilidades em tecnologias como Databricks, Python, SQL, e Power BI.<br>
-Aos 35 anos e com um background diversificado, estou focado em me tornar um especialista em engenharia de dados, análise de dados e desenvolvimento de soluções para ajudar empresas a tomarem decisões baseadas em dados.
-
-### Tecnologias utilizadas
-**Databricks**:
-Atualmente focado em dominar o Databricks com Python e SQL, onde desenvolvo pipelines de dados e aplico transformações em camadas (Bronze, Silver e Gold).
-
-**Python**:
-Utilizo PySpark para processamento e tratamento de dados em larga escala, criando fluxos de trabalho para análise de dados.
-
-**SQL**:
-Manipulação e transformação de dados.
-
-**Power BI**:
-Construo dashboards e relatórios para visualização de insights, com foco em vendas e comportamento do cliente.
+## Renan Marques Rodrigues
+- 💻 Data Specialist
 
 
-### Conecte-se comigo
-- [LinkedIn](https://www.linkedin.com/in/renan-marques-rodrigues/)
-- [YouTube](https://www.youtube.com/@datadevacademy)
+## Skills 💻
+- 🐍 Python  
+- 📋 SQL 
+- 💡 PySpark
+- 🎲 Data Analysis
+- 🔥 Databricks
+- ☁️ Google Cloud Platform (GCP)
+- 📊 Power BI
+- 🤖 Inteligência Artificial (IA)
 
 
-### Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenanBjj&show_icons=true&bg_color=000&title_color=#4e7e93&text_color=FFF&border_radius=3&border_color=36123c)
+## Languages 🌎
+- PT: Native
+- EN: C1
+- FR: A2
+ 
+##
+
+<div align="center">
+  <a href="https://github.com/renato-cromao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanBjj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBjj&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
+##
+<div align="center"><br>
+<a href = "mailto:renanbjj88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/renan-marques-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.instagram.com/renan.bjj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@datadevacademy" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+</a>
+
+  
+</div>
+
 
 <!--
 **RenanBjj/RenanBjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
