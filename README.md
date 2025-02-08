@@ -59,9 +59,9 @@ I am a Data Specialist with experience in data processing, analysis, and automat
 
 ## 📫 **Contact**
 
-- **LinkedIn:** [Renan Marques Rodrigues](https://www.linkedin.com/in/renan-marques-123456789/)
+- **LinkedIn:** [Renan Marques Rodrigues](https://www.linkedin.com/in/renan-marques-rodrigues/)
 - **YouTube:** [Renan's Channel](https://www.youtube.com/channel/UCmXpqtgnZMtHc6bnAczlJaQ)
-- **Email:** [renan.marques@example.com](mailto:renan.marques@example.com)
+- **Email:** [renan.marques@example.com](mailto:renanbjj88@gmail.com)
 
 ---
 
