@@ -1,55 +1,68 @@
-## Renan Marques Rodrigues
-- 💻 Data Specialist
+# 👋 Hello! I'm Renan Marques Rodrigues
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/renan-marques-123456789/)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/channel/UCmXpqtgnZMtHc6bnAczlJaQ)
 
-## Skills 💻
-- 🐍 Python  
-- 📋 SQL 
-- 💡 PySpark
-- 🎲 Data Analysis
-- 🔥 Databricks
-- ☁️ Google Cloud Platform (GCP)
-- 📊 Power BI
-- 🤖 Inteligência Artificial (IA)
+I am a Data Specialist with experience in data processing, analysis, and automation, focused on optimizing workflows and delivering reliable insights.
 
+---
 
-## Languages 🌎
-- PT: Native
-- EN: C1
-- FR: A2
- 
-##
+## 🛠 **Technical Skills**
 
-<div align="center">
-  <a href="https://github.com/renato-cromao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanBjj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBjj&layout=compact&langs_count=7&theme=dark"/>
-</div>
+- **Programming Languages:**
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+  - ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white)
 
+- **Data Analysis:**
+  - ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+  - ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+  - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)
 
-##
-<div align="center"><br>
-<a href = "mailto:renanbjj88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/renan-marques-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.instagram.com/renan.bjj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/@datadevacademy" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-</a>
+- **Platforms & Tools:**
+  - ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white)
+  - ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white)
+  - ![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
 
+- **Artificial Intelligence:**
+  - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=tensorflow&logoColor=white)
+  - ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?logo=keras&logoColor=white)
+
+---
+
+## 📂 **Featured Projects**
+
+- **[Python-AI-Data-Cleaner](https://github.com/RenanBjj/Python-AI-Data-Cleaner):**
+  - *Description:* An automated pipeline for cleaning and transforming data using Python and the OpenAI API. The project analyzes columns, suggests and applies intelligent adjustments, and responds to questions about the data dynamically.
+
+- **[PowerBI-Nintendo](https://github.com/RenanBjj/PowerBI-Nintendo):**
+  - *Description:* Interactive analysis of Nintendo data using Power BI, providing insights into sales, distribution, and product performance over the years.
+
+---
+
+## 🏆 **Achievements & Certifications**
+
+- **Certifications:**
+  - [Data Engineering Certification - SoulCode](https://soulcode.com/)
+
+- **Achievements:**
+  - Built an **automated web scraping system** to process and place orders efficiently, saving hours of manual work and increasing operational efficiency.
+  - Created a **voucher automation system** that retrieves previous month's orders and automatically inserts them into a rewards campaign website, streamlining the process and ensuring seamless reward generation.
   
-</div>
+---
 
+## 📈 **GitHub Statistics**
 
-<!--
-**RenanBjj/RenanBjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Renan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenanBjj&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 **Contact**
+
+- **LinkedIn:** [Renan Marques Rodrigues](https://www.linkedin.com/in/renan-marques-123456789/)
+- **YouTube:** [Renan's Channel](https://www.youtube.com/channel/UCmXpqtgnZMtHc6bnAczlJaQ)
+- **Email:** [renan.marques@example.com](mailto:renan.marques@example.com)
+
+---
+
+Developed by Renan Marques Rodrigues
