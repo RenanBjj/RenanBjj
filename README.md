@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Renan Marques Rodrigues
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/renan-marques-123456789/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/renan-marques-rodrigues/)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/channel/UCmXpqtgnZMtHc6bnAczlJaQ)
 
 I am a Data Specialist with experience in data processing, analysis, and automation, focused on optimizing workflows and delivering reliable insights.
