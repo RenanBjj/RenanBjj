@@ -25,8 +25,8 @@ I am a Data Specialist with experience in data processing, analysis, and automat
   - ![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
 
 - **Artificial Intelligence:**
-  - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=tensorflow&logoColor=white)
-  - ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?logo=keras&logoColor=white)
+  - ![LLMs & NLP](https://img.shields.io/badge/-LLMs%20%26%20NLP-5A5A5A?logo=openai&logoColor=white)
+  - ![AI Automation](https://img.shields.io/badge/-AI%20Automation-008080?logo=robotframework&logoColor=white)
 
 ---
 
