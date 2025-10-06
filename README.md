@@ -43,7 +43,9 @@ I am a Data Specialist with experience in data processing, analysis, and automat
 ## 🏆 **Achievements & Certifications**
 
 - **Certifications:**
+  - [Databricks Certified Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate)
   - [Data Engineering Certification - SoulCode](https://soulcode.com/)
+  - 
 
 - **Achievements:**
   - Built an **automated web scraping system** to process and place orders efficiently, saving hours of manual work and increasing operational efficiency.
